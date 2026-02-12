@@ -1,5 +1,4 @@
 import socket
-import threading
 
 
 def start_lan_listener(port, chat_callback):
